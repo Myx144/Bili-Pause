@@ -1,0 +1,19 @@
+# Build output
+BiliPauseWpf/bin/
+BiliPauseWpf/obj/
+BiliPauseWpf/publish/
+
+# IDE
+.vs/
+*.user
+*.suo
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Config (contains local paths)
+bili_pause.ini
+
+# Dotnet
+*.nupkg
