@@ -1,5 +1,7 @@
 ﻿# BiliPause
 
+(Written by Codex)
+
 A Windows utility that lets you control a Bilibili video playing in the background while gaming — without ever leaving your game window.
 
 Press **Mouse4** (side back button) to pause/play, **Mouse5** (side forward button) to skip back. Works while Genshin Impact (or any game window) is in the foreground.
