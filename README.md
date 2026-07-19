@@ -100,4 +100,4 @@ Window persistence uses `GetWindowThreadProcessId` + `OpenProcess` + `QueryFullP
 
 ## License
 
-MIT
+[GNU General Public License v3.0](LICENSE)
